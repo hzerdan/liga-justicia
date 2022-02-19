@@ -7,3 +7,4 @@
 * Linterna Verde
 * Robin
 * Volcán Verde
+* Volcán Negro
