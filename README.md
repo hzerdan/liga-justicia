@@ -3,5 +3,4 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Esto es lo que yo quiero que quede. Cambiado localmente
-
+## Esto es lo que yo quiero que quede.  
