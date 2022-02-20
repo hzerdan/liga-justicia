@@ -8,3 +8,4 @@
 * Robin
 * Volcán Verde
 * Volcán Negro
+* Volcán azul
