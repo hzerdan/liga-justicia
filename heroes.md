@@ -9,3 +9,4 @@
 * Volcán Verde
 * Volcán Negro
 * Volcán azul
+* Volcán amarillo
